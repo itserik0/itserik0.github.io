@@ -1,8 +1,6 @@
-title: Site Title
+title: Erik's test website
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a sample description of my sample website
 permalink: '/:title/'
 
 # Author settings
@@ -11,11 +9,11 @@ author-pic: yosh-ginsu.jpg
 about-author: About you
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
+email: eolson@ncsu.edu
+phone: 919-123-4567
+website: https://itserik0.github.io/
 linkedin: # Add your Linkedin handle
-github: #Add your Github handle
+github: itserik0
 twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
